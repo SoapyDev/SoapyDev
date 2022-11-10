@@ -4,6 +4,7 @@
 </a></p>
 
 
+<div align="center" spacing="20" >
 <p align="center"><a href="https://wakatime.com/@SoapyDev">
   <img align="center" width="600" height="500" src="https://wakatime.com/share/@cf51eabb-c3ac-45c6-9a07-8a5114ca75c0/70e8def6-6723-4022-9f7e-b6874abdd1ac.svg" />
 </a>
@@ -17,4 +18,4 @@
 <a href="https://wakatime.com/@SoapyDev">
   <img align="center" width="600" height="500" src="https://wakatime.com/share/@cf51eabb-c3ac-45c6-9a07-8a5114ca75c0/9e9b08f9-13a4-41bf-b5ca-e880d0b706f2.svg" />
 </a></p>
-
+</div>
