@@ -34,10 +34,12 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 <p align="center">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@cf51eabb-c3ac-45c6-9a07-8a5114ca75c0/2ca3b3d7-3bfa-4a12-ad15-ed2620878909.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
 </p>
 
 <p align="center"><a href="https://wakatime.com/@christitustech">
-  <img align="center" width="400" height="300" src="" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
 </p>
 
 
