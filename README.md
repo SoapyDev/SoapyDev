@@ -32,24 +32,17 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 
 
-<p align="center">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@cf51eabb-c3ac-45c6-9a07-8a5114ca75c0/2ca3b3d7-3bfa-4a12-ad15-ed2620878909.svg" />
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
-</p>
+
+ <img align="center" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
+
 
 <p align="center"><a href="https://wakatime.com/@christitustech">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/d77601f1-bed3-4b3c-aa76-5bcef287d289.svg" />
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/2d9b62b9-9dd6-4f0c-ac3f-df7bc360f5d2.svg" />
 </p>
 
-
+<img align="center" src="https://wakatime.com/share/@SoapyDev/9b67f16f-87d6-4d8a-8192-afabcd683b6c.svg"/>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SoapyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandre-beauchamp-thibault" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SoapyDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoapyDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
