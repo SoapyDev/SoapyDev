@@ -32,12 +32,12 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 
 
+<p align="center">
+ <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/b252e70b-9058-4d05-a25e-d1fdf4889a01.svg" />
+</p>
 
- <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/a1df26be-b409-4c1b-bffa-7d8c5c8a8d0e.svg" />
-
-
-<p align="center"><a href="https://wakatime.com/@christitustech">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/d77601f1-bed3-4b3c-aa76-5bcef287d289.svg" />
+<p align="center">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/a1df26be-b409-4c1b-bffa-7d8c5c8a8d0e.svg" />
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/2d9b62b9-9dd6-4f0c-ac3f-df7bc360f5d2.svg" />
 </p>
 
