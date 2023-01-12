@@ -33,7 +33,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 
 
- <img align="center" src="https://wakatime.com/share/@SoapyDev/186742b9-c5c6-407b-83c8-402a887b6743.svg" />
+ <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/a1df26be-b409-4c1b-bffa-7d8c5c8a8d0e.svg" />
 
 
 <p align="center"><a href="https://wakatime.com/@christitustech">
@@ -41,7 +41,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/2d9b62b9-9dd6-4f0c-ac3f-df7bc360f5d2.svg" />
 </p>
 
-<img align="center" src="https://wakatime.com/share/@SoapyDev/9b67f16f-87d6-4d8a-8192-afabcd683b6c.svg"/>
+
 
 ### Socials
 
