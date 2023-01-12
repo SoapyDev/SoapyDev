@@ -39,7 +39,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 <p align="center"><a href="https://wakatime.com/@christitustech">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/d77601f1-bed3-4b3c-aa76-5bcef287d289.svg" />
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/e7e2438a-8242-44d2-bbf5-a02ec71a0d93.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/2d9b62b9-9dd6-4f0c-ac3f-df7bc360f5d2.svg" />
 </p>
 
 
