@@ -33,7 +33,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 
 <p align="center">
- <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/b252e70b-9058-4d05-a25e-d1fdf4889a01.svg" />
+ <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/ae2fc97a-6534-4ce7-a887-4c998d2cd597.svg" />
 </p>
 
 <p align="center">
