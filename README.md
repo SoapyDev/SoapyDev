@@ -9,7 +9,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 * 🌍  I'm based in Quebec
 * 🖥️  See my portfolio at [Portfolio](http://____)
 * ✉️  You can contact me at [alexandre.beauchamp.thibault@gmail.com](mailto:alexandre.beauchamp.thibault@gmail.com)
-* 🚀  I'm currently working on [BreathIn - Your personnal breathing bubble](http://____)
+* 🚀  I'm currently working on [BreathIn - Your personnal breathing bubble](https://github.com/SoapyDev/03-BreathIn)
 * 🧠  I'm learning Rust, Javscript and C#
 * 🤝  I'm open to collaborating on interesting websites, PWA, and programs.
 
