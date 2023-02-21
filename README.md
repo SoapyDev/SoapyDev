@@ -7,7 +7,7 @@ Web Developper
 I have been learning to code since 2020. My ethos is to create new accessible experiences oriented towards performance and security.
 
 * 🌍  I'm based in Quebec
-* 🖥️  See my portfolio at [Portfolio]
+* 🖥️  See my portfolio at [Portfolio](https://soapydev.github.io/Portfolio/)
 * 🚀  I'm currently working on [BreathIn - Your personnal breathing bubble]
 * 🧠  I'm learning Rust, Typescript and C#
 * 🤝  I'm open to collaborating on interesting websites, PWA, and programs.
