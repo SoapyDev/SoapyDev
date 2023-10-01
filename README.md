@@ -8,7 +8,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 
 * 🌍  I'm based in Quebec
 * 🖥️  See my portfolio at [Portfolio](https://soapydev.github.io/Portfolio/)
-* 🚀  I'm currently working on [BreathIn - Your personnal breathing bubble]
+* 🚀  I'm currently working on [PictuRust - A bulk CLI mutator for pictures](https://soapydev.github.io/PictuRust/)
 * 🧠  I'm learning Rust, Typescript and C#
 * 🤝  I'm open to collaborating on interesting websites, PWA, and programs.
 
