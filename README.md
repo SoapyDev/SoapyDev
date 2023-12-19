@@ -9,7 +9,7 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 * 🌍  I'm based in Quebec
 * 🖥️  See my portfolio at [Portfolio](https://wasm-portfolio.vercel.app)
 * 🚀  I'm currently working on [PictuRust - A bulk CLI mutator for pictures](https://github.com/SoapyDev/PictuRust)
-* 🧠  I'm learning Rust, Typescript and C#
+* 🧠  I'm learning to make end-to-end programs in Rust using Dioxus.
 * 🤝  I'm open to collaborating on interesting websites, PWA, and programs.
 
 ### Skills
