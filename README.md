@@ -30,18 +30,6 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 </p>
 
 
-
-<p align="center">
- <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/ae2fc97a-6534-4ce7-a887-4c998d2cd597.svg" />
-</p>
-
-<p align="center">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/a1df26be-b409-4c1b-bffa-7d8c5c8a8d0e.svg" />
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@SoapyDev/2d9b62b9-9dd6-4f0c-ac3f-df7bc360f5d2.svg" />
-</p>
-
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SoapyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandre-beauchamp-thibault" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
