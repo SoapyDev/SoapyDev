@@ -29,6 +29,9 @@ I have been learning to code since 2020. My ethos is to create new accessible ex
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<p align="center">
+ <img align="center" width="800" src="https://wakatime.com/share/@SoapyDev/ae2fc97a-6534-4ce7-a887-4c998d2cd597.svg" />
+</p>
 
 ### Socials
 
