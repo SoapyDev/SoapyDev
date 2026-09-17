@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandre
 =================================================================================================================================
 
-Web Developper - Programmer - Student
+Web Developper - Programmer - Project manager
 --------------
 
 I have been learning to code since 2020. My ethos is to create new accessible experiences oriented towards performance and security.
 
 * 🌍  I'm based in Quebec
 * 🖥️  See my portfolio at [Portfolio](https://soapydev-portfolio.fly.dev/)
-* 🚀  I'm currently working on [PictuRust - A bulk CLI mutator for pictures](https://github.com/SoapyDev/PictuRust)
-* 🧠  I'm learning to make end-to-end programs in Rust using Dioxus.
+* 🚀  I'm currently working on Flow - A collect and delivery manager
+* 🧠  I'm making end-to-end programs in Rust using Vue3 and PostgreSQL or CLI.
 * 🤝  I'm open to collaborating on interesting websites, PWA, and programs.
 
 ### Skills
